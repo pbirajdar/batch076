@@ -1,0 +1,8 @@
+{
+  "name": "abc",
+  "age": 18,
+  "address": {
+    "zipcode": 413222,
+    "line1": "siome d"
+  }
+}
